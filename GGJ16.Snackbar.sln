@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GGJ16.Snackbar.CSharp", "GGJ16.Snackbar.CSharp.csproj", "{E659E386-442A-20A9-C5C5-0A9A0B546A6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E659E386-442A-20A9-C5C5-0A9A0B546A6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E659E386-442A-20A9-C5C5-0A9A0B546A6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E659E386-442A-20A9-C5C5-0A9A0B546A6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E659E386-442A-20A9-C5C5-0A9A0B546A6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
